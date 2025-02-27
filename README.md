@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-# Amazon-clone
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a clone of the Amazon website built using **React.js**, **Vite**, **Node.js**, and **MongoDB**.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> a9901a5 (Initial commit)
+- Home page with product listing
+- Product details page
+- Basic styling and layout similar to Amazon
+- Backend integration with **Node.js** and **MongoDB** (for storing and fetching products)
